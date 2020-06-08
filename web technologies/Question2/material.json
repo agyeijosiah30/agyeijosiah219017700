@@ -1,0 +1,21 @@
+[
+    {
+        material code:"123",
+        material name:"iron rods",
+        material unit price:20.2,
+        material stock level: 10.5
+    },
+    {
+        material code:"456",
+        material name:"cement",
+        material unit price:50.5,
+        material stock level:40.8
+    },
+    {
+        material code:"789",
+        material name:"roofing sheets",
+        material unit price:100.6,
+        material stock level:50.9
+
+    }
+]
